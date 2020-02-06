@@ -1,2 +1,2 @@
-# Milk
-Hello , my name is Akeno (MilkJugs)
+# my game 
+All of my game data
